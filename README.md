@@ -35,6 +35,10 @@ India, with a rich heritage of floral diversity, is well-known for its medicinal
     -   🍊 Tensorflow
     -   🌄 CNN(convolutional neural network)
 
+## 📸 Screenshot
+
+![pyrus app](./assets/landing.jpeg)
+
 ## 🚶🏻‍♂️ Getting started and 🏃🏻‍♂️ Running the app
 
 Detailed instructions for setting up each part of this application is given in their respective README.md files:
