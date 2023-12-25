@@ -45,7 +45,7 @@ system.
 -   🍊 Tensorflow
 -   🌄 CNN(convolutional neural network)
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 <div style="display: flex;gap: 50px;">
     <img src="./assets/landing.jpeg" alt="pyrus app" style="object-fit: contain;height: 450px;" />
