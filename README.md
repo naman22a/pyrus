@@ -28,22 +28,22 @@ system.
 ## ⚙️ Technologies used
 
 -   📱 App
--   🔷 React Native
--   🩵 React
--   🎩 Expo
+    -   🔷 React Native
+    -   🩵 React
+    -   🎩 Expo
 -   🪹 Server
--   📌 NodeJS
--   🚂 Express JS
--   🎉 TypeScript
--   🏡 REST API
--   ⚙️ Dotenv - Supports environment variables
--   🦋 Prettier - Opinionated Code Formatter
+    -   📌 NodeJS
+    -   🚂 Express JS
+    -   🎉 TypeScript
+    -   🏡 REST API
+    -   ⚙️ Dotenv - Supports environment variables
+    -   🦋 Prettier - Opinionated Code Formatter
 -   🤖 AI Model
--   🐍 Python
--   📊 Matplotlib
--   🚩 Keras
--   🍊 Tensorflow
--   🌄 CNN(convolutional neural network)
+    -   🐍 Python
+    -   📊 Matplotlib
+    -   🚩 Keras
+    -   🍊 Tensorflow
+    -   🌄 CNN(convolutional neural network)
 
 ## 📸 Screenshots
 
