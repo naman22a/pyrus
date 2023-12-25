@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/naman22a/sih-app
+[submodule "server"]
+	path = server
+	url = https://github.com/naman22a/sih-server
+[submodule "python-model"]
+	path = python-model
+	url = https://github.com/naman22a/sih-model
