@@ -47,7 +47,10 @@ system.
 
 ## 📸 Screenshot
 
-<img src="./assets/landing.jpeg" alt="pyrus app" style="object-fit: contain;height: 450px;" />
+<div style="display: flex;gap: 20px;">
+    <img src="./assets/landing.jpeg" alt="pyrus app" style="object-fit: contain;height: 450px;" />
+    <img src="./assets/details.jpeg" alt="pyrus app" style="object-fit: contain;height: 450px;" />
+</div>
 
 ## 🚶🏻‍♂️ Getting started and 🏃🏻‍♂️ Running the app
 
