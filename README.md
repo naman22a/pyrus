@@ -22,32 +22,32 @@ system.
 
 ## 🪶 Features covered
 
-- 📷 Image indentification/classification of medicinal plants using machine learning of more than 170 plants.
-- 🪴 Uses and medicinal properties of plants
+-   📷 Image indentification/classification of medicinal plants using machine learning of more than 170 plants.
+-   🪴 Uses and medicinal properties of plants
 
 ## ⚙️ Technologies used
 
-- 📱 App
-- 🔷 React Native
-- 🩵 React
-- 🎩 Expo
-- 🪹 Server
-- 📌 NodeJS
-- 🚂 Express JS
-- 🎉 TypeScript
-- 🏡 REST API
-- ⚙️ Dotenv - Supports environment variables
-- 🦋 Prettier - Opinionated Code Formatter
-- 🤖 AI Model
-- 🐍 Python
-- 📊 Matplotlib
-- 🚩 Keras
-- 🍊 Tensorflow
-- 🌄 CNN(convolutional neural network)
+-   📱 App
+-   🔷 React Native
+-   🩵 React
+-   🎩 Expo
+-   🪹 Server
+-   📌 NodeJS
+-   🚂 Express JS
+-   🎉 TypeScript
+-   🏡 REST API
+-   ⚙️ Dotenv - Supports environment variables
+-   🦋 Prettier - Opinionated Code Formatter
+-   🤖 AI Model
+-   🐍 Python
+-   📊 Matplotlib
+-   🚩 Keras
+-   🍊 Tensorflow
+-   🌄 CNN(convolutional neural network)
 
 ## 📸 Screenshot
 
-<div style="display: flex;gap: 20px;">
+<div style="display: flex;gap: 50px;">
     <img src="./assets/landing.jpeg" alt="pyrus app" style="object-fit: contain;height: 450px;" />
     <img src="./assets/details.jpeg" alt="pyrus app" style="object-fit: contain;height: 450px;" />
 </div>
@@ -56,14 +56,14 @@ system.
 
 Detailed instructions for setting up each part of this application is given in their respective README.md files:
 
-- 📱 App: [README.md](./app/README.md)
-- 🪹 Server: [README.md](./server/README.md)
-- 🤖 AI Model: [README.md](./python-model/README.md)
+-   📱 App: [README.md](./app/README.md)
+-   🪹 Server: [README.md](./server/README.md)
+-   🤖 AI Model: [README.md](./python-model/README.md)
 
 ## 📫 Stay in touch
 
-- Author - [Naman Arora](https://namanarora.vercel.app)
-- Twitter - [@namanarora1022](https://twitter.com/namanarora1022)
+-   Author - [Naman Arora](https://namanarora.vercel.app)
+-   Twitter - [@namanarora1022](https://twitter.com/namanarora1022)
 
 ## 🗒️ License
 
